@@ -1,0 +1,47 @@
+{
+  "name": "FMI_Polytheism_Monotheism_Structural_Pack",
+  "version": "1.1",
+  "license": "AGPLv3",
+  "generated_at_utc": "2025-11-23T23:00:20.231479Z",
+  "structure": {
+    "01_academic": [
+      "manuscript_academic_consolidated.md",
+      "journal_pdf_ready.md",
+      "latex_manuscript.tex",
+      "commentary_notes.md",
+      "bibliography_chicago.md",
+      "reviewer_response_sheet.md"
+    ],
+    "02_peer_bridge": [
+      "down_tier_adaptation_plan.md"
+    ],
+    "03_public": {
+      "Tier_B_Undergraduate": [
+        "poly_mono_undergrad_reading.md"
+      ],
+      "Tier_C_GeneralPublic": [
+        "poly_mono_public_article.md"
+      ],
+      "Tier_D_YouTubeScript": [
+        "poly_mono_youtube_script_A.txt"
+      ],
+      "Tier_E_Schools": [
+        "poly_mono_school_version.md"
+      ],
+      "Tier_L_Infographic": [
+        "infographic_blocks.txt"
+      ],
+      "Tier_M_FAQ": [
+        "faq_public_safe.txt"
+      ]
+    },
+    "common_assets": [
+      "overview.txt"
+    ],
+    "root": [
+      "README.md",
+      "LICENSE",
+      "version_manifest.json"
+    ]
+  }
+}

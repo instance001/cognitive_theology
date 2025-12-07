@@ -1,0 +1,3 @@
+Common assets folder for the Polytheism–Monotheism Structural Pack.
+
+Currently used for shared documentation and metadata.
