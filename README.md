@@ -11,6 +11,8 @@ The focus is strictly on:
 
 It does **not** make theological claims or value judgments.
 
+Philpapers mirror: https://philpapers.org/rec/PATALA-3
+
 ## Contents
 
 - `01_academic/` – consolidated manuscript, journal-style version, LaTeX source, commentary notes, bibliography, and reviewer-response sheet.
