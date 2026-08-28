@@ -1,13 +1,14 @@
 {
   "name": "FMI_Polytheism_Monotheism_Structural_Pack",
-  "version": "1.1",
+  "version": "1.2",
   "license": "AGPLv3",
-  "generated_at_utc": "2025-11-23T23:00:20.231479Z",
+  "generated_at_utc": "2026-08-28T20:52:59Z",
   "structure": {
     "01_academic": [
       "manuscript_academic_consolidated.md",
       "journal_pdf_ready.md",
       "latex_manuscript.tex",
+      "religious_authority_as_epistemic_architecture_v0_3.md",
       "commentary_notes.md",
       "bibliography_chicago.md",
       "reviewer_response_sheet.md"
@@ -37,6 +38,14 @@
     },
     "common_assets": [
       "overview.txt"
+    ],
+    "output": {
+      "pdf": [
+        "religious_authority_as_epistemic_architecture_v0_3_philpapers.pdf"
+      ]
+    },
+    "scripts": [
+      "build_religious_authority_pdf.py"
     ],
     "root": [
       "README.md",

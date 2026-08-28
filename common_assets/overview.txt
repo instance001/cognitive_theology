@@ -1,3 +1,5 @@
-Common assets folder for the Polytheism–Monotheism Structural Pack.
+Common assets folder for the Polytheism-Monotheism Structural Pack.
 
-Currently used for shared documentation and metadata.
+Currently used for shared documentation and metadata. Version 1.2 adds the
+companion paper Religious Authority as Epistemic Architecture and a
+PhilPapers-ready PDF export.

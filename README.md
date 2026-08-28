@@ -1,10 +1,11 @@
-# FMI – Polytheism–Monotheism Structural Pack v1.1
+# FMI – Polytheism–Monotheism Structural Pack v1.2
 
-This archive contains an academic manuscript and a full down-tier adaptation suite
+This archive contains academic manuscripts and a full down-tier adaptation suite
 comparing the **structural architectures** of polytheistic and monotheistic systems.
 
 The focus is strictly on:
 - authority distribution,
+- epistemic authority and correction,
 - canon formation,
 - management of variation,
 - and institutional coherence.
@@ -15,10 +16,12 @@ Philpapers mirror: https://philpapers.org/rec/PATALA-3
 
 ## Contents
 
-- `01_academic/` – consolidated manuscript, journal-style version, LaTeX source, commentary notes, bibliography, and reviewer-response sheet.
+- `01_academic/` – consolidated manuscript, journal-style version, LaTeX source, companion paper, commentary notes, bibliography, and reviewer-response sheet.
 - `02_peer_bridge/` – down-tier adaptation plan used to generate public-facing material.
 - `03_public/` – undergrad reading, public article, YouTube script, school-level version, infographic text, and FAQ.
 - `common_assets/` – shared metadata and support files.
+- `output/pdf/` – generated PDF artifacts, including the PhilPapers-ready companion paper export.
+- `scripts/` – repeatable artifact builders.
 
 ## License
 
@@ -38,7 +41,7 @@ is sufficient, plus a link or pointer to the original distribution source where 
 
 ## Version
 
-- Version: 1.1
-- Date: 2025-11-23
+- Version: 1.2
+- Date: 2026-08-29
 
 This pack is designed for remixing into lectures, livestreams, explainer videos, and educational handouts.
